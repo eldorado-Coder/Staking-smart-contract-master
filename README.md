@@ -20,7 +20,10 @@ reward rate * (current time - start time of staking)
 
 # file structure
 Context.sol is a simple contract that gets caller's address and data
+
 ReentrancyGuard is for preventing double call of a function
+
 ERC20 is an interface for ERC20 token
+
 IERC721 is an interface for ERC721 token
 
