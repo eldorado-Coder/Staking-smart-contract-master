@@ -16,7 +16,7 @@ Setter functions
 internal functions
 _distributeReward: distribute rewards to staker
 
-# reward rate
+#reward rate
 reward rate * (current time - start time of staking)
 
 #file structure
